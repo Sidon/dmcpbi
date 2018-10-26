@@ -17,13 +17,23 @@ bank-full.csv: o conjunto completo;
 bank-names.txt: com a descrição dos campos do conjunto de dados.
 Para a resolução deste teste utilize o arquivo bank-full.csv e para uma descrição sobre o dataset use bank-names.txt e/ou a fonte oficial.
 
-Qual profissão tem mais tendência a fazer um empréstimo? De qual tipo?
+1) Qual profissão tem mais tendência a fazer um empréstimo? De qual tipo?
 
-Fazendo uma relação entre número de contatos e sucesso da campanha quais são os pontos relevantes a serem observados?
+A profissão com maior tendencia a fazer um emprestimo: Blue-collar
+Emprestimo mais frequento na profissão de maior tendencia: Housing
 
-Baseando-se nos resultados de adesão desta campanha qual o número médio e o máximo de ligações que você indica para otimizar a adesão?
+2) Fazendo uma relação entre número de contatos e sucesso da campanha quais são os pontos relevantes a serem observados?
 
-O resultado da campanha anterior tem relevância na campanha atual?
+O número de contatos esta relacionado ao sucesso da campanha, maiores taxas de sucesso ocorreram com os clientes que 
+foram contatdos entre 5 e 11 vezes.
+
+3) Baseando-se nos resultados de adesão desta campanha qual o número médio e o máximo de ligações que você indica para otimizar a adesão?
+
+Número ideal (maior taxa de sucesso): 9 ligações
+Número máximo: 11 ligações
+Número médio: 7 ligações
+
+4) O resultado da campanha anterior tem relevância na campanha atual?
 
 Qual o fator determinante para que o banco exija um seguro de crédito?
 
