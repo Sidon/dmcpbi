@@ -45,3 +45,11 @@ Answers:
 [Second and third questions](https://github.com/Sidon/dmcpbi/blob/master/success-contacts.ipynb)<br>
 [Fourth question](https://github.com/Sidon/dmcpbi/blob/master/previous-success.ipynb)<br>
 [Sixth question](https://github.com/Sidon/dmcpbi/blob/master/charcteristics.ipynb)
+
+
+Requirements
+----
+python==3.6
+pandas==0.23.4
+tabulate==0.8.2
+
