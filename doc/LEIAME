@@ -25,7 +25,7 @@ Emprestimo mais frequento na profissão de maior tendencia: Housing
 2) Fazendo uma relação entre número de contatos e sucesso da campanha quais são os pontos relevantes a serem observados?
 
 O número de contatos esta relacionado ao sucesso da campanha, maiores taxas de sucesso ocorreram com os clientes que 
-foram contatdos entre 5 e 11 vezes.
+foram contatados entre 5 e 11 vezes (sendo 9 o melhor resultado), o número de contatos feitos na campanha anterior também parece  estar relacionado ao resultado. As melhores taxas de sucessos apresentam as maiores taxas (em relação à contagem total) de contatos feitos na campanha aterior (em torno de 40-44%) 
 
 3) Baseando-se nos resultados de adesão desta campanha qual o número médio e o máximo de ligações que você indica para otimizar a adesão?
 
@@ -35,6 +35,10 @@ Número médio: 7 ligações
 
 4) O resultado da campanha anterior tem relevância na campanha atual?
 
-Qual o fator determinante para que o banco exija um seguro de crédito?
+Sim, 64,7% dos resultados anteriores classificados como sucesso obtiveram exito, enquanto que nas outras classificações, o maior resultado foi de 16,6% 
 
-Quais são as características mais proeminentes de um cliente que possua empréstimo imobiliário?
+5) Qual o fator determinante para que o banco exija um seguro de crédito?
+Não consegui um 'insight' para encontrar dados relevantes no contexto para responder essa questão.
+
+6) Quais são as características mais proeminentes de um cliente que possua empréstimo imobiliário?
+A maioria tem nível secundário de educação, tem a profissão Blue Collar, a idade média de 39 anos, estado civil casado e saldo médio de 1175.1 Euros.
