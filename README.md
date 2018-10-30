@@ -37,7 +37,7 @@ Questions:
 
 5) What is the determining factor for the bank to require credit insurance?
 
-6) What are the most prominent characteristics of the clients that has housing loan?
+~~6) What are the most prominent characteristics of the clients that has housing loan?~~
 
 Answers:
 ------
