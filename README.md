@@ -41,7 +41,7 @@ Questions:
 
 Answers:
 ------
-[First question](https://github.com/Sidon/dmcpbi/blob/master/trends.ipynb)
-[Second and third questions](https://github.com/Sidon/dmcpbi/blob/master/success-contacts.ipynb)
-[Fourth question](https://github.com/Sidon/dmcpbi/blob/master/previous-success.ipynb)
+[First question](https://github.com/Sidon/dmcpbi/blob/master/trends.ipynb)<br>
+[Second and third questions](https://github.com/Sidon/dmcpbi/blob/master/success-contacts.ipynb)<br>
+[Fourth question](https://github.com/Sidon/dmcpbi/blob/master/previous-success.ipynb)<br>
 [Sixth question](https://github.com/Sidon/dmcpbi/blob/master/charcteristics.ipynb)
