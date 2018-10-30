@@ -39,4 +39,9 @@ Questions:
 
 6) What are the most prominent characteristics of the clients that has housing loan?
 
-
+Answers:
+------
+[First question](https://github.com/Sidon/dmcpbi/blob/master/trends.ipynb)
+[Second and third questions](https://github.com/Sidon/dmcpbi/blob/master/success-contacts.ipynb)
+[Fourth question](https://github.com/Sidon/dmcpbi/blob/master/previous-success.ipynb)
+[Sixth question](https://github.com/Sidon/dmcpbi/blob/master/charcteristics.ipynb)
