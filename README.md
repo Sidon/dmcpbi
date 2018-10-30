@@ -49,7 +49,7 @@ Answers:
 
 Requirements
 ----
-python==3.6
-pandas==0.23.4
+python==3.6<br>
+pandas==0.23.4<br>
 tabulate==0.8.2
 
