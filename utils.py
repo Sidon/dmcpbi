@@ -14,6 +14,6 @@ class Dataset:
                                     usecols=cols, sep=';'))
 
     def get_data(self, data_slice):
-        return self.data[data_slice]    
+        return self.data if data_slice[0]=='all' else self.data[data_slice]    
 
     
