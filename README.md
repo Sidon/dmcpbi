@@ -35,9 +35,9 @@ Questions:
 
 4) Has the result from the previous campaign been relevant to the current campaign?
 
-5) ~~What is the determining factor for the bank to require credit insurance?
+5) ~~What is the determining factor for the bank to require credit insurance?~~
 
-6) What are the most prominent characteristics of the clients that has housing loan?~~
+6) What are the most prominent characteristics of the clients that has housing loan?
 
 Answers:
 ------
